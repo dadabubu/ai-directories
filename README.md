@@ -76,7 +76,8 @@ Welcome to 'Top AI Directories', a curated compilation of AI tool directories de
 
 ## N
 
-- [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory 
+- [NeonRev](https://www.neonrev.com/) - One of the largest and best AI Tools Directory
+- [NavTo.AI](https://www.navto.ai/) - AI tool discovery platform
 
 ## O
 
